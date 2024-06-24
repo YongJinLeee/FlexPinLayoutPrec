@@ -9,6 +9,8 @@ target 'FlexPinLayoutPrec' do
 
   pod 'FlexLayout'
   pod 'PinLayout'
+  pod 'SnapKit'
+  pod 'Then'
 
   target 'FlexPinLayoutPrecTests' do
     inherit! :search_paths
